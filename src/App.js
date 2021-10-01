@@ -29,8 +29,6 @@ const App = () => {
         "OK"
       );
     }
-
-    console.log("Contact adding");
   };
 
   const deleteContact = (contactId) => {
